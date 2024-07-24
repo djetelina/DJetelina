@@ -2,6 +2,4 @@
 
 Hey, currently I'm wearing a hat of a Platform Engineer.
 
-Chances are you'll see me trying to contribute to projects we're using or thinking about using. We're also trying to open source parts of our infrastructure setup - to serve as an inspiration to those who are wondering how others are doing it. 
-
 You probably won't find me on many mainstream social networks - at least not active. If you for some reason want to reach out, try me on [Mastodon](https://mastodon.jtl.vision/@DJetelina) or through Matrix @david:jtl.vision
